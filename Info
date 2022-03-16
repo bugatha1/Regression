@@ -1,0 +1,23 @@
+
+https://www.dropbox.com/s/py3ns8ltraoexfi/Youtube%20-%20Regression%20-%20Video%20Exp%20%232.mov?dl=0 
+
+simple linear regression : we predict the value of Y(independent variable) based on the variable X(dependent variable). 
+Examine the relationship between only 2 variables only. 
+Independent or dependent variable increases or decreased based on the linear fashion.
+ex : If the employee years of experience increases the salary also increases in linear fashion
+     Y = mX + B      (m represents slop of the line and B represents 
+     Salary = m (years of experience) + B  
+     
+     m and B are co-efficients .  (goal is to obtain the best values of m and B or best fit the data points)
+
+Multiple linear regression: examine relation between more than 2 variables
+    y = b0 + m1*x1 + m2*x2 + .... mn*xn
+    
+    salary dependence on no.of years experience and no.of years education.  
+    y = b0 + m1 * no.of years experience + m2 * no.of years education (goal is to obtain m1 , m2 and b)
+    
+    
+Polynominal Regression: the relation between x and y at nth degree of polynomial x.
+      y = b0 + b1*x + b2*xpow2 + b3* xpow3 + ... +bn* xpown 
+      
+      
