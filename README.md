@@ -1,3 +1,7 @@
+https://s3.amazonaws.com/assets.datacamp.com/email/other/ML+Cheat+Sheet_2.pdf 
+
+https://medium.com/machine-learning-in-practice/cheat-sheet-of-machine-learning-and-python-and-math-cheat-sheets-a4afe4e791b6 
+
 # Regression
 
 Regression models (both linear and non-linear) are used for predicting a real value.
